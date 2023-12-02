@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stdf-parsing-tool-client/static/css/main.16770e6a.css",
+    "main.js": "/stdf-parsing-tool-client/static/js/main.70759fdd.js",
+    "index.html": "/stdf-parsing-tool-client/index.html",
+    "main.16770e6a.css.map": "/stdf-parsing-tool-client/static/css/main.16770e6a.css.map",
+    "main.70759fdd.js.map": "/stdf-parsing-tool-client/static/js/main.70759fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16770e6a.css",
+    "static/js/main.70759fdd.js"
+  ]
+}
